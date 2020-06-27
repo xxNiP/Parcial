@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Parcial</string>
+    <string name="editTxtNombre">" Enter your Name"</string>
+    <string name="editTxtPass">Enter your Password</string>
+    <string name="txtRecordar">" Remember User"</string>
+    <string name="btnIngresar">Enterokay</string>
+    <string name="chekTxtCrear">Unregistered? Create User</string>
+    <string name="txtConversor">Conversor de Moneda</string>
+    <string name="editTxtMonto">Enter amount in pesos</string>
+    <string name="txtMoneda">Select a Currency</string>
+    <string name="editTxtResultado">Outcome</string>
+    <string name="chekDolar">" Dollar $"</string>
+    <string name="chekEuro">" Euro $"</string>
+    <string name="chekReal">" Real $"</string>
+    <string name="btnConvertir">" Turn into"</string>
+    <string name="btnReiniciar">" Restart"</string>
+    <string name="txtResul">0</string>
+    <string name="btnSumar">" Add"</string>
+    <string name="btnResta">" Subtraction"</string>
+    <string name="btnZoomMas">" Zoom More"</string>
+    <string name="btnZoomMenos">Zoom Less</string>
+    <string name="btnOcultar">" Hide"</string>
+    <string name="btnReset">" Restart"</string>
+    <string name="txtBienvenido">" Welcome back"</string>
+</resources>

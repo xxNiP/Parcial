@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Parcial</string>
+    <string name="editTxtNombre">INGRESE SU NOMBRE</string>
+    <string name="editTxtPass">INGRESE SU CONTRASEÑA</string>
+    <string name="txtRecordar">Recordar Usuario</string>
+    <string name="btnIngresar">Ingresar</string>
+    <string name="chekTxtCrear">Sin Registrar? Crear Usuario</string>
+    <string name="txtConversor">Conversor de Moneda</string>
+    <string name="editTxtMonto">Ingrese Monto en Pesos</string>
+    <string name="txtMoneda">Seleccione una Moneda</string>
+    <string name="editTxtResultado">Resultado</string>
+    <string name="chekDolar">Dolar$</string>
+    <string name="chekEuro">Euro$</string>
+    <string name="chekReal">Real$</string>
+    <string name="btnConvertir">Convertir</string>
+    <string name="btnReiniciar">Reiniciar</string>
+    <string name="txtResul">0</string>
+    <string name="btnSumar">Sumar</string>
+    <string name="btnResta">Resta</string>
+    <string name="btnZoomMas">Zoom Mas</string>
+    <string name="btnZoomMenos">Zoom Menos</string>
+    <string name="btnOcultar">Ocultar</string>
+    <string name="btnReset">Reiniciar</string>
+    <string name="txtBienvenido">Bienvenido de Nuevo</string>
+
+
+
+
+</resources>
